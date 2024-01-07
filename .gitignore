@@ -1,0 +1,9 @@
+# Untracked Vivado project folders:
+zyboGPIO.cache/*
+zyboGPIO.hw/*
+zyboGPIO.ip_user_files/*
+zyboGPIO.runs/*
+zyboGPIO.sim/*
+
+# Untracked files:
+*.xpr
